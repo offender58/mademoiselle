@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+
+
+@font-face {
+  font-family: 'Bodoni Book';
+  src: url('Bodoni Book/Bodoni Book.woff2') format('woff2'),
+       url('Bodoni Book/Bodoni Book.woff') format('woff'),
+       url('Bodoni Book/Bodoni Book.ttf')  format('truetype');
+}
+
+
+
+
+//  font-family: 'Lato', sans-serif;
+
+
+// font-family: 'Bodoni Book', sans-serif;
+
+
+$lato: 'Lato', sans-serif;
+$bodoni: 'Bodoni Book', sans-serif;
